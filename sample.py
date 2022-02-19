@@ -1,2 +1,3 @@
 a="This is a sample file"
-print(a)
+b=" added by vicky"
+print(a+b)
